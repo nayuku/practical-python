@@ -30,3 +30,4 @@ while principal > 0:
 
 print('Total paid:  ', round(total_paid, 2))
 print('Months:  ', actual_month)
+# print(dir(actual_month))
